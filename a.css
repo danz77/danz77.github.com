@@ -1,0 +1,16 @@
+body{
+	width: 1800px;
+	background-color: black;
+}
+div{
+	background-color: yellow;
+	width: 140px;
+	height: 140px;
+	border: 2px solid black;
+}
+li{
+	display: inline;
+	float: left;
+	margin: auto;
+	margin-top: 70px;
+}
